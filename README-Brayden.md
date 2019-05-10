@@ -1,0 +1,2 @@
+I worked on the task class, as well as the Board class. I worked on the adding deleting and updating of tasks.
+I also added time tracking to the program, and tried to help out with anything else that was needed.
